@@ -16,3 +16,9 @@ format-markdown.py
 .npmrc
 package-lock.json
 lintmd-config.json
+/.idea/.gitignore
+/.idea/JavaGuide.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
